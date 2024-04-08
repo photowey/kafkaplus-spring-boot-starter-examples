@@ -68,7 +68,7 @@
         <maven-versions-plugin.version>2.7</maven-versions-plugin.version>
         <maven-git-commit-id-plugin.version>4.9.10</maven-git-commit-id-plugin.version>
 
-        <kafkaplus-spring-boot-starter.version>3.7.0.1.0-SNAPSHOT</kafkaplus-spring-boot-starter.version>
+        <kafkaplus-spring-boot-starter.version>3.7.0.1.2</kafkaplus-spring-boot-starter.version>
 
         <io.github.photowey.project.url>https://github.com/photowey/kafkaplus-spring-boot-starter-examples</io.github.photowey.project.url>
     </properties>
